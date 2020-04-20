@@ -2,3 +2,8 @@
 	path = RLJO/PDC-Management
 	url = git@github.com:RLJO/PDC-Management.git
 	branch = app-whatsapp_redirect
+
+[submodule "RLJO/PDC-Management2"]
+	path = RLJO/PDC-Management2
+	url = git@github.com:RLJO/PDC-Management.git
+	branch = app-project_report_pdf
